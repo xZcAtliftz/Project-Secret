@@ -26,7 +26,7 @@ local api = {}; do
     api.post = post;
 end
 
-loadstring(api.get("https://raw.githubusercontent.com/PhaiWac/Project-Byte-Code/main/disassemble.lua"))()
+loadstring(api.get("https://raw.githubusercontent.com/xZcAtliftz/Project-Secret/main/disassemble.lua"))()
 
 print(disassemble)
 
