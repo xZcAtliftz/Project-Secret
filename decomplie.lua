@@ -1,5 +1,5 @@
 local open_ai_url = "https://api.openai.com/v1/chat/completions";
-local api_key = "org-AIcrSM7ZhSAKpAeHhvz1FxAm"
+local api_key = "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"
 local http_service = cloneref(game:GetService("HttpService"));
 
 local format = string.format;
